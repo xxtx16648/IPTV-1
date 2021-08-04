@@ -1,22 +1,26 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="101" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
-# https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NmI0ZTUyYTAtNjg4NS0zYzU1LWIzYjctOGZiYTFjNTdlNWRl
+#EXTINF:-1 group-title="Free Channels" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",101 TV1
+http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NmI0ZTUyYTAtNjg4NS0zYzU1LWIzYjctOGZiYTFjNTdlNWRl
+#EXTINF:-1 group-title="Free Channels" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",102 TV2
+http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd
+
 #EXTINF:-1 tvg-id="103" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
-#EXTINF:-1 tvg-id="103" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup)
+#EXTINF:-1 tvg-id="103" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 # https://mediahomes.github.io/assets/my/ch_tv3.m3u8
 # http://iptv.tvmalaysia.cc:80/737373/737373/8750
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUsNsPndSjOGjnX48_wBz60)/dm/3/x6qp375/d/live-3.m3u8
@@ -78,7 +82,7 @@ https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8
 #EXTINF:-1 tvg-id="111" group-title="Astro" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",111 Go Shop BAARU
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
-#EXTINF:-1 tvg-id="TV6" group-title="Testing Channel" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+#EXTINF:-1 tvg-id="TV6" group-title="Free Channels" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="112" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
