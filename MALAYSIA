@@ -86,8 +86,6 @@ http://198.16.106.61:8277/streams/d/Channel5HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="Free Channels" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV6" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Free Channels", TV6
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="Channel8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Free Channels", CHANNEL 8
