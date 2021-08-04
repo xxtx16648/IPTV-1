@@ -357,7 +357,7 @@ http://185.180.221.194:8277/streams/d/Animax/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
-#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428319_ico.png" group-title="DOCUMENTARY", Nat Geo Wild HD
+#EXTINF: -1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG" group-title="DOCUMENTARY", Nat Geo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="551" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png", National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -371,11 +371,9 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/8856
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-#EXTINF: -1 tvg-id="history.id" tvg-name="History FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="DOCUMENTARY", History HD
+#EXTINF: -1 tvg-id="history.id" tvg-name="History FHD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" group-title="DOCUMENTARY", History HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
-#EXTINF: -1 tvg-id="HIS.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="DOCUMENTARY", History HD
-http://185.180.221.194:8277/streams/d/History/playlist.m3u8
-#EXTINF:-1 tvg-id="556" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4", Animal Planet HD
+#EXTINF:-1 tvg-id="556" group-title="DOCUMENTARY" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4", Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
