@@ -185,7 +185,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 #EXTINF:-1 tvg-id="149" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
 http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Free Channels", Channel 5
+#EXTINF:-1 tvg-id="Channel5" group-title="Free Channels" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png", Channel 5
 http://198.16.106.61:8277/streams/d/Channel5HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="Free Channels" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
