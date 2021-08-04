@@ -15,7 +15,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 group-title="Free Channels" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",102 TV2
 http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd
 
-#EXTINF: -1 tvg-id="TV3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Free Channels",103 TV3 
+#EXTINF: -1 tvg-id="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Free Channels",103 TV3 
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
@@ -842,7 +842,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
 # https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 
-#EXTINF:-1 tvg-id="beINSports1" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png/revision/latest?cb=20170103003645",818 Bein Sports HD
+#EXTINF:-1 tvg-id="818" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png/revision/latest?cb=20170103003645",818 Bein Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
@@ -856,13 +856,13 @@ http://50.7.161.82:8277/streams/d/Bein2hd/playlist.m3u8
 #EXTINF:-1 tvg-id="819" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="Sports",821 WWE Network HD
+#EXTINF:-1 tvg-id="821" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="Sports",821 WWE Network HD
 #http://51.79.223.246:61980/myplay/c_58016/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/wwe_pye/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Wwe/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157562
 
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="Sports",822 Golf Channel HD
+#EXTINF:-1 tvg-id="822" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="Sports",822 Golf Channel HD
 #http://51.79.223.246:61980/myplay/mlsp_606/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/astrogolf_pye/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157563
