@@ -32,6 +32,11 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUsNsPndSjOGjnX48_
 # https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lpIzHwhBxNJLpeOLbckKN4)/dm/3/x6zvnex/s/live-4.m3u8
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
+#EXTINF:-1 tvg-id="114" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/TV_Alhijrah_logo.png/revision/latest?cb=20200525150012",114 TV AlHijrah HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
+
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest?cb=20180623060717",104 Astro Ria
 # http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/737373/737373/6730
@@ -84,11 +89,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
-
-#EXTINF:-1 tvg-id="114" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/TV_Alhijrah_logo.png/revision/latest?cb=20200525150012",114 TV AlHijrah HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #EXTINF:-1 tvg-id="116" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",116 Colors
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
