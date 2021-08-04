@@ -169,15 +169,15 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
 https://link.zozotv.xyz:443/Freemium5/unlimited99/302
 
-#EXTINF:-1 tvg-id="JayaMax" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",313 Jaya Max
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
-
 #EXTINF:-1 tvg-id="Polimer" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png",312 Polimer
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
+
+#EXTINF:-1 tvg-id="JayaMax" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",313 Jaya Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
 
 #EXTINF:-1 tvg-id="SonySAB" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072708856rq9.png",342 Sony SAB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
