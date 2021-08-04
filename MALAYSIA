@@ -157,9 +157,6 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8
 
-#EXTINF:-1 tvg-id="TV6" group-title="Free Channels" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
 #EXTINF:-1 tvg-id="147" group-title="Free Channels" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
@@ -177,7 +174,6 @@ https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQZ7rMAuIgMVGb5gTN
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="148" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",148 8TV (HD)
-# https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR9YcP6IyfbXk80TBFINCfg)/dm/3/x6qud17/s/live-3.m3u8
 http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="149" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9
@@ -187,8 +183,22 @@ http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF: -1 tvg-id="149" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
-# https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZT-qazr02s_pxi19oRfkio)/dm/3/x6qqja6/s/live-4.m3u8
 http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
+
+#EXTINF: -1 tvg-id="Channel5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Free Channels", Channel 5
+http://198.16.106.61:8277/streams/d/Channel5HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV6" group-title="Free Channels" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF: -1 tvg-id="TV6" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Free Channels", TV6
+https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF: -1 tvg-id="Channel8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Free Channels", CHANNEL 8
+http://198.16.106.61:8277/streams/d/Channel8HD/playlist.m3u8
+
+#EXTINF: -1 tvg-id="ChannelU" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="Free Channels", CHANNEL U
+http://198.16.106.61:8277/streams/d/ChannelU/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LAKUmall" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
