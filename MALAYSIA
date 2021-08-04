@@ -182,22 +182,22 @@ http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
 # https://mediahomes.github.io/assets/my/ch_tv9.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
-#EXTINF: -1 tvg-id="149" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
+#EXTINF:-1 tvg-id="149" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 (HD)
 http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Channel5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Free Channels", Channel 5
+#EXTINF:-1 tvg-id="Channel5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Free Channels", Channel 5
 http://198.16.106.61:8277/streams/d/Channel5HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="Free Channels" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF: -1 tvg-id="TV6" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Free Channels", TV6
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Free Channels", TV6
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF: -1 tvg-id="Channel8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Free Channels", CHANNEL 8
+#EXTINF:-1 tvg-id="Channel8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Free Channels", CHANNEL 8
 http://198.16.106.61:8277/streams/d/Channel8HD/playlist.m3u8
 
-#EXTINF: -1 tvg-id="ChannelU" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="Free Channels", CHANNEL U
+#EXTINF:-1 tvg-id="ChannelU" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="Free Channels", CHANNEL U
 http://198.16.106.61:8277/streams/d/ChannelU/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LAKUmall" group-title="Unifi TV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall 
