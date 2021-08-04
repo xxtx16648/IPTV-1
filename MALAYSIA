@@ -257,9 +257,9 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://50.7.161.82:8277/streams/d/Bein2hd/playlist.m3u8
 #EXTINF: -1 tvg-id="beinsports.my" tvg-name="beIN Sports" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="SPORTS", beIN Sports HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6749
-#EXTINF: -1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SPORTS", beIN Sports HD MAX
+#EXTINF: -1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="SPORTS", beIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
-#EXTINF: -1 tvg-name="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="SPORTS", beIN Sports HD MAX 2
+#EXTINF: -1 tvg-name="beIN MAX 2" tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="SPORTS", beIN Sports MAX HD 2
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7195
 #EXTINF: -1 tvg-id="WWE.US" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="SPORTS", WWE Network HD
 http://50.7.161.82:8277/streams/d/wwe_pye/playlist.m3u8
@@ -271,6 +271,10 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/159
 http://50.7.161.82:8277/streams/d/astrocricket_pye/playlist.m3u8
 #EXTINF: -1 tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS", Fight Sport
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/161
+#EXTINF:-1 tvg-id="309" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png", Celestial Movies HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="MOVIE/ENTERTAINMENT", CELESTIAL CLASSIC MOVIES
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="MOVIE/ENTERTAINMENT", ONE HD
@@ -279,8 +283,10 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://50.7.161.82:8277/streams/d/Ohk/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="MOVIE/ENTERTAINMENT", tvN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png" group-title="MOVIE/ENTERTAINMENT", HITS Movies HD
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="706" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png", HITS Movies HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png" group-title="MOVIE/ENTERTAINMENT", BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF: -1 tvg-id="HBOHD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIE/ENTERTAINMENT", HBO HD
@@ -291,9 +297,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 https://dl.dropbox.com/s/as9p2yufyypakyl/HBO.m3u8
 #EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIE/ENTERTAINMENT", HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIE/ENTERTAINMENT", HBO Hits
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF: -1 tvg-id="HBOHitsHD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIE/ENTERTAINMENT", HBO Hits (A)
+#EXTINF:-1 tvg-id="HBOHitsHD" group-title="MOVIE/ENTERTAINMENT" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+# https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF: -1 tvg-id="HBOHitsHD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIE/ENTERTAINMENT", HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF: -1 tvg-id="HBOFamilyHD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="MOVIE/ENTERTAINMENT", HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
@@ -307,10 +316,17 @@ https://dl.dropbox.com/s/1nqhsz02w72ojjl/MAX.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428181_ico.png" group-title="MOVIE/ENTERTAINMENT", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428179_ico.png" group-title="MOVIE/ENTERTAINMENT", FOX CRIME HD
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="MOVIE/ENTERTAINMENT", tvN Movies HD
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428179_ico.png" group-title="MOVIE/ENTERTAINMENT",FOX CRIME
+http://185.180.221.194:8277/streams/d/Foxcrime/playlist.m3u8
+#http://50.7.59.184:61980/myplay/cn_1_11009/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+#http://1.crtv1.ml/hstv/crtv.php?id=386
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+#EXTINF:-1 tvg-id="416" group-title="MOVIE/ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png", tvN Movies HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 #EXTINF: -1 tvg-id="Fli.IN" tvg-name="304" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="MOVIE/ENTERTAINMENT", &FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="MOVIE/ENTERTAINMENT", &FLIX HD
@@ -321,38 +337,76 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="ZeeCafe" tvg-logo="https://i.imgur.com/hesmake.png" group-title="MOVIE/ENTERTAINMENT", ZEE CAFE HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIE/ENTERTAINMENT", THRILL
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png", Thrill
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF: -1 tvg-id="ParamountNetwork" tvg-name="304" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/paramount.png" group-title="MOVIE/ENTERTAINMENT", PARAMOUNT NETWORK
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF: -1 tvg-id="AXN.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="MOVIE/ENTERTAINMENT", AXN HD
-http://185.180.221.194:8277/streams/d/Axn/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="MOVIE/ENTERTAINMENT", AXN HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="701" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png", AXN HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF: -1 tvg-id="HelloHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MOVIE/ENTERTAINMENT", Hello HD
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/988b815bc89e4bad0c259.png" group-title="MOVIE/ENTERTAINMENT", FOXlife HD
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF: -1 tvg-id="Fox.Asia" tvg-name="304" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428178_ico.png" group-title="MOVIE/ENTERTAINMENT", FOX HD
-http://185.180.221.194:8277/streams/d/Foxhd/playlist.m3u8
-#EXTINF: -1 tvg-id="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MOVIE/ENTERTAINMENT", KIX HD
-http://185.180.221.194:8277/streams/d/KiX/playlist.m3u8
-#EXTINF: -1 tvg-id="HIT.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="MOVIE/ENTERTAINMENT", HITS HD
-http://185.180.221.194:8277/streams/d/Hits/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442901.png" group-title="MOVIE/ENTERTAINMENT", TLC HD
-http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-#EXTINF: -1 tvg-id="FoodNetworkHD" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/foodnetwork.png" group-title="MOVIE/ENTERTAINMENT", Asian Food Network HD
-https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="NGP.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428321_ico.png" group-title="MOVIE/ENTERTAINMENT", Nat Geo People HD
-http://185.180.221.194:8277/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF: -1 tvg-id="WAR.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png" group-title="MOVIE/ENTERTAINMENT", Warner TV HD
-http://185.180.221.194:8277/streams/d/WarnerTV/playlist.m3u8
-#EXTINF: -1 tvg-name="Crime & Investigation HD" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="MOVIE/ENTERTAINMENT", Crime & Investigation HD
-http://185.180.221.194:8277/streams/d/Ci/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/afa7944f2ef89c711d58c.png" group-title="MOVIE/ENTERTAINMENT", HGTV HD
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF: -1 tvg-id="Ani.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="MOVIE/ENTERTAINMENT", Animax HD
-http://185.180.221.194:8277/streams/d/Animax/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NmI0ZTUyYTAtNjg4NS0zYzU1LWIzYjctOGZiYTFjNTdlNWRl
+#EXTINF:-1 group-title="MOVIE/ENTERTAINMENT" ch-number="455" tvg-id="455" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOXLife HD
+http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
+#EXTINF:-1 tvg-id="704" group-title="MOVIE/ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073643920hhv.png", FOX HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+# https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
+#EXTINF:-1 tvg-id="705" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png", KIX HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:-1 tvg-id="706" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png", HITS HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:-1 tvg-id="707" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",707 TLC HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 tvg-id="708" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",708 Food Network HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391013
+#EXTINF:-1 tvg-id="709" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",709 Asian Food Network HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTINF:-1 tvg-id="710" group-title="MOVIE/ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",710 Nat Geo People HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
+#EXTINF:-1 tvg-id="712" group-title="MOVIE/ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png", Warner TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+# https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
+#EXTINF:-1 tvg-id="713" group-title="MOVIE/ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png", FX HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
+#EXTINF:-1 tvg-id="714" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png", Crime & Investigation HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 tvg-id="715" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png", HGTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 tvg-id="716" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg", DMAX HD
+https://nonton.site:8443/provision/pp/37417
+#EXTINF:-1 tvg-id="718" group-title="MOVIE/ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png", MTV Asia HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
+http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
+#EXTINF:-1 tvg-id="719" group-title="MOVIE/ENTERTAINMENT" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", Animax HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="550" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG", Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
