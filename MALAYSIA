@@ -1,10 +1,14 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml refresh="1440" max-conn="1" refresh="24"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmIyZGM4YzYtN2VkZS0zZDM5LTlmMWYtZjNhYTYwNjk0YTU4
-#EXTINF:-1 group-title="Free Channels" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",101 TV1
-http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="TV1HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Free Channels",101 TV1
+#http://51.79.223.246:61980/myplay/c_58001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
+http://185.180.221.194:8277/streams/d/TV1/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
@@ -12,10 +16,15 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmIyZGM4YzYtN2VkZS0zZDM5LTlmMWYtZjNhYTYwNjk0YTU4
-#EXTINF:-1 group-title="Free Channels" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",102 TV2
-http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd
-http://50.7.161.82:8277/streams/d/tv2_pye/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="TV2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Free Channels",102 TV2
+#http://51.79.223.246:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
+http://185.180.221.194:8277/streams/d/TV2/playlist.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
 
 #EXTINF: -1 tvg-id="103" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="Free Channels",103 TV3 
 # https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
