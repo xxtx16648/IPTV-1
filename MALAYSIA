@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-ID="TV1HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png" group-title="Free Channels",101 TV1
+#EXTINF:-1 tvg-ID="101" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png" group-title="Free Channels",101 TV1
 #http://51.79.223.246:61980/myplay/c_58001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
 http://185.180.221.194:8277/streams/d/TV1/playlist.m3u8
@@ -17,7 +17,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-ID="TV2" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="Free Channels",102 TV2
+#EXTINF:-1 tvg-ID="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="Free Channels",102 TV2
 #http://51.79.223.246:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8277/streams/d/TV2/playlist.m3u8
