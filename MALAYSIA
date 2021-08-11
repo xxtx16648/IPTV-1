@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url=https://thisistyx.github.io/epg/astro.xml refresh="1440" max-conn="1" refresh="24"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
@@ -116,7 +116,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="107" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 # http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
+# http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6740
 
@@ -671,42 +671,6 @@ http://93.190.139.35:8277/streams/d/Rtmsport/playlist.m3u8
 http://50.7.161.82:8277/streams/d/Rtmsport/playlist.m3u8
 # http://185.180.221.194:8277/streams/d/Rtmsport/playlist.m3u8
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-#EXTINF:-1 tvg-id="785" tvg-name="SpecialEventSportsHD01" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 01
-https://link.zozotv.xyz:443/Freemium4/unlimited99/318
-
-#EXTINF:-1 tvg-id="786" tvg-name="SpecialEventSportsHD02" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 02
-https://link.zozotv.xyz:443/Freemium4/unlimited99/319
-
-#EXTINF:-1 tvg-id="787" tvg-name="SpecialEventSportsHD03" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 03
-https://link.zozotv.xyz:443/Freemium4/unlimited99/320
-
-#EXTINF:-1 tvg-id="788" tvg-name="SpecialEventSportsHD04" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 04
-https://link.zozotv.xyz:443/Freemium4/unlimited99/321
-
-#EXTINF:-1 tvg-id="789" tvg-name="SpecialEventSportsHD05" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 05
-https://link.zozotv.xyz:443/Freemium4/unlimited99/322
-
-#EXTINF:-1 tvg-id="790" tvg-name="SpecialEventSportsHD06" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 06
-https://link.zozotv.xyz:443/Freemium4/unlimited99/323
-
-#EXTINF:-1 tvg-id="791" tvg-name="SpecialEventSportsHD07" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 07
-https://link.zozotv.xyz:443/Freemium4/unlimited99/324
-
-#EXTINF:-1 tvg-id="792" tvg-name="SpecialEventSportsHD08" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 08
-https://link.zozotv.xyz:443/Freemium4/unlimited99/325
-
-#EXTINF:-1 tvg-id="793" tvg-name="SpecialEventSportsHD09" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 09
-https://link.zozotv.xyz:443/Freemium4/unlimited99/326
-
-#EXTINF:-1 tvg-id="794" tvg-name="SpecialEventSportsHD10" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 10
-https://link.zozotv.xyz:443/Freemium4/unlimited99/327
-
-#EXTINF:-1 tvg-id="795" tvg-name="SpecialEventSportsHD11" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 11
-https://link.zozotv.xyz:443/Freemium4/unlimited99/336
-
-#EXTINF:-1 tvg-id="796" tvg-name="SpecialEventSportsHD12" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png",Special Event Sports HD 12
-https://link.zozotv.xyz:443/Freemium4/unlimited99/337
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
