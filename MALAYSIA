@@ -407,7 +407,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 
-#EXTINF:-1 tvg-id="123" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
+#EXTINF:-1 tvg-id="123" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
@@ -491,7 +491,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 
 
-#EXTINF:-1 tvg-id="512" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",512 BBC Lifestyle HD
+#EXTINF:-1 tvg-id="512" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
@@ -543,12 +543,12 @@ http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74869.ts
 #EXTINF:-1 tvg-id="610" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
 http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74868.ts
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",550 Dreamworks HD
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",553 CBeebies HD
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
