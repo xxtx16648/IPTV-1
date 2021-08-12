@@ -271,7 +271,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="333" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai
-http://iptv.tvmalaysia.cc:80/737373/737373/6722
+http://50.7.161.82:8277/streams/d/huanxi_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="352" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD (VPN NEEDED)
 http://iptv.tvmalaysia.cc:80/737373/737373/6703
