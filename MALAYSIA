@@ -543,7 +543,7 @@ http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74869.ts
 #EXTINF:-1 tvg-id="610" tvg-logo="https://i.kampung.xyz/c/6fb2bb374fc7edc8.png" group-title="Education",610 Astro TVIQ
 http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/74868.ts
 
-#EXTINF:-1 tvg-id="550" group-title="Kids" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",550 Dreamworks HD
+#EXTINF:-1 tvg-id="550 Dreamworks HD" group-title="Kids" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",550 Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
 http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
