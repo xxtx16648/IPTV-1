@@ -306,23 +306,27 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #EXTINF:-1 tvg-id="128" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd
 
 #EXTINF:-1 tvg-id="226" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",226 SCM Legend HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227566/3221227566.mpd
 
 #EXTINF:-1 tvg-id="228" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064916067nrf.png",228 SCM HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227606/3221227606.mpd
 
 #EXTINF:-1 tvg-id="301" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",301 Yupp Thirai HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.58.102/PLTV/88888888/224/3221227762/3221227762.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227762/3221227762.mpd
 
 #EXTINF:-1 tvg-id="309" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",309 Celestial Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -331,13 +335,15 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #EXTINF:-1 tvg-id="331" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",331 Sony Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227498/3221227498.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd
 
 #EXTINF:-1 tvg-id="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -345,7 +351,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-id="404" group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",404 Boo HD
-# http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
@@ -355,56 +360,57 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="408" group-title="Movies" tvg-logo="https://th.bing.com/th/id/R3bfca344418333ee12de39c3f50fb2d3?rik=oE0ztn2yvOcdwQ&pid=ImgRaw",408 Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227565/3221227565.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-# https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
-# https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-# https://mediahomes.github.io/assets/hbogo/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOHitsHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #EXTINF:-1 tvg-id="HBOFamilyHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-# https://mediahomes.github.io/assets/hbogo/family.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignatureHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="413" group-title="Movies" tvg-logo="https://www.foxMoviesasia.com/images/fm.png",413 FOX Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-# https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227572/3221227572.mpd
 
 #EXTINF:-1 tvg-id="414" group-title="Movies" tvg-logo="https://foxfamilyMovies.foxMoviesasia.com/images/ffm.png",414 FOX Family Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #EXTINF:-1 tvg-id="415" group-title="Movies" tvg-logo="https://foxactionMovies.foxMoviesasia.com/images/fam.png",415 FOX Action Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227638/3221227638.mpd
 
 #EXTINF:-1 tvg-id="416" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
