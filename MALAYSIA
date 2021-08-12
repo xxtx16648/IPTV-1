@@ -350,7 +350,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-id="404" group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",404 Boo HD
+#EXTINF:-1 tvg-id="404" group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",404 BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill
@@ -414,7 +414,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -434,56 +433,68 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 
 #EXTINF:-1 tvg-id="512" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png",512 BBC World News HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227586/3221227586.mpd
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#EXTINF:-1 tvg-id="513" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",513 Al Jazeera English HD
-https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_ZKanX1zBlrEHReX6nmJt4I)/dm/3/x6rsa3u/s/live-4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-id="513" group-title="News" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201910/20191016/20191016083900196xiv.png",513 Al Jazeera English HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227623/3221227623.mpd
 
-#EXTINF:-1 tvg-id="514" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",514 Sky News
-https://skyNews2-plutolive-vo.akamaized.net/cdhlsskyNewsamericas/1013/latest.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-id="514" group-title="News" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cqNKlcyp",514 Sky News
+https://web.hypp.tv:443/PLTV/88888888/224/3221227718/3221227718.mpd
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#EXTINF:-1 tvg-id="515" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",515 CNA
-https://stream-05.sg1.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIaltp2gxshxZHY_QWmuljRLag)/dm/3/x7ptegr/s/live-4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-id="515" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080719495046uu.png",515 CNA
+https://web.hypp.tv:443/PLTV/88888888/224/3221227543/3221227543.mpd
 
-#EXTINF:-1 tvg-id="517" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",517 Bloomberg 
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTINF:-1 tvg-id="517" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",517 Bloomberg
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 tvg-id="518" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png",518 ABC Australia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
+https://web.hypp.tv:443/PLTV/88888888/224/3221227619/3221227619.mpd
 
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",EuroNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",EuroNews
+https://web.hypp.tv:443/PLTV/88888888/224/3221227486/3221227486.mpd
 
 #EXTINF:-1 tvg-id="633" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/RTM_Parlimen_2021.png/revision/latest?cb=20210413101314",633 Parlimen Malaysia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227546/3221227546.mpd
 
 #EXTINF:-1 tvg-id="642" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",642 DW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-# https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+https://web.hypp.tv:443/PLTV/88888888/224/3221227595/3221227595.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 tvg-id="643" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",643 NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://web.hypp.tv:443/PLTV/88888888/224/3221227626/3221227626.mpd
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#EXTINF:-1 tvg-id="652" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",652 France 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628017306/ei/Oj4JYajjBcO1z7sPm66bqAo/ip/2001%3Ae68%3A5405%3Ac0ab%3Ac925%3Aec3b%3A2e54%3A5e89/id/aHh8rA0hks8.2/source/yt_live_broadcast/requiressl/yes/tx/24027690/txs/24027687%2C24027688%2C24027689%2C24027690/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXdPxp97PQRRNUEM7tr52TFTaaSKHXjvTfUoJHmeWkT8CIQDmbuMrUCT_6C_-SzkeS5wKrszGDS__c7DpvH9AL8mBJQ%3D%3D/file/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-id="652" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png",652 France24
+https://web.hypp.tv:443/PLTV/88888888/224/3221227629/3221227629.mpd
 
 #EXTINF:-1 tvg-id="BBCEarthHD" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
