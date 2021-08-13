@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="101" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
@@ -12,7 +12,7 @@ http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
@@ -22,13 +22,12 @@ http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTQ2ZTMzY2QtMDY2Zi0zNDg0LWFhOWItNmM1ZmU5NzgzOTQ2
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF: -1 tvg-id="103" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-title="Free Channels",103 TV3 
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRA2un1UceorGo2CQVr6lWo)/dm/3/x6qp375/d/live-3.m3u8
-http://iptv.tvmalaysia.cc:80/737373/737373/8750
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
