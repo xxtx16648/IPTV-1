@@ -1,28 +1,20 @@
 #EXTM3U x-tvg-url=https://thisistyx.github.io/epg/astro.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="101" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",101 TV1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-ID="101" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png" group-title="Free Channels",101 TV1
 http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
 
 #EXTINF:-1 tvg-ID="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="Free Channels",102 TV2
 http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
