@@ -23,25 +23,25 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
 
 #EXTINF:-1 tvg-id="114" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/TV_Alhijrah_logo.png/revision/latest?cb=20200525150012",114 TV AlHijrah HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227601/3221227601.mpd
 
@@ -56,7 +56,7 @@ http://l365.in/manal/manal/400200777
 
 #EXTINF:-1 tvg-id="141" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd
 
@@ -65,7 +65,7 @@ https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/1080_manifest.mpd
 
 #EXTINF:-1 tvg-id="147" group-title="Free Channels" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 
@@ -74,7 +74,7 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYJ7EmKNrAW8MHQX5f
 
 #EXTINF:-1 tvg-id="148" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest?cb=20200525120403",148 8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
@@ -84,7 +84,7 @@ http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="149" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
@@ -94,7 +94,7 @@ http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="151" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 LAKU Mall HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Mzc0ZmVlNGQtZTlhNC0zMzgzLTg4YjItNDE5MWJlMTcyZTUy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
 
