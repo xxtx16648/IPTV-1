@@ -81,13 +81,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV (148)
 http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="149" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 ()
+#EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png,TV9 (149)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest?cb=20170819074656",149 TV9 ()
+#EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9 (149)
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHds7xf3P2e3sQS6pQxvpt50)/dm/3/x6qqja6/s/live-4.m3u8
 http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
 
