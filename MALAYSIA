@@ -19,7 +19,7 @@ http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUDQfMsnCicDG7vXOw4keTo)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -85,7 +85,7 @@ http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHds7xf3P2e3sQS6pQxvpt50)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUDQfMsnCicDG7vXOw4keTo)/dm/3/x6qp375/d/live-3.m3u8
 http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",LAKU Mall HD
@@ -731,13 +731,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227685/3221227685.mpd
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227705/3221227705.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png",800 eGG Network HD
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png",eGG Network HD
 # http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd2d3b0FKNzFwdS1HcFFnUXBWTjhINi0yWUV5WW10MWsteENTSl93bVIzeFNpUDNpdEFYYlRCUGR6QzJQemVKVXpQcDhidzNHX295bmVMZXNFQVdZRXprY25md1g0a0xJX0NqZ211c2diVTdLQnZ3LUlBSVF0bW1wS3RlXzA3UExUZFc3RFN4cDRkcGtxdVAzRVlVdEUwNW9xdTI0alZFbl9nWkExTkQ3ZVRYWFJhV09obXdUZGFZeG1wdGxVWXZGNHg2Q1RHOE5KWjYtU3hiV2IwRVZPTHJLNnBPdEJvai1PS3ZScElLSzhHa2FuUW5MeDNwYkt0ZG9uTkp3SFMzVHJRU3Y1a3NuSjl1TmR5SmRvVmx6R3M2WjVvUS1QOU1jN25JdmNFUlE4b2VuWXlvdlhrd0NEaF80WHVPYlVVcnZnTURjenFyNVVqNWNMa3hZZ1RNQXRnJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYmRhN2Y3NGJfODQyZl80ZjBlX2IxNDJfMzk1ZGFkZDkxZjA3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHdnd29BSjcxcHUtR3BRZ1FwVk44SDYtMllFeVltdDFrLXhDU0pfd21SM3hTaVAzaXRBWGJUQlBkekMyUHplSlV6UHA4YnczR19veW5lTGVzRUFXWUV6a2NuZndYNGtMSV9DamdtdXNnYlU3S0J2dy1JQUlRdG1tcEt0ZV8wN1BMVGRXN0RTeHA0ZHBrcXVQM0VZVXRFMDVvcXUyNGpWRW5fZ1pBMU5EN2VUWFhSYVdPaG13VGRhWXhtcHRsVVl2RjR4NkNURzhOSlo2LVN4YldiMEVWT0xySzZwT3RCb2otT0t2UnBJS0s4R2thblFuTHgzcGJLdGRvbk5Kd0hTM1RyUVN2NWtzbko5dU5keUpkb1ZsekdzNlo1b1EtUDlNYzduSXZjRVJROG9lbll5b3ZYa3dDRGhfNFh1T2JVVXJ2Z01EY3pxcjVVajVjTGt4WWdUTUF0ZyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=eSLNVobhV%2fiRa%2fvEf9DtkXIm8To%3d&sessionId=d0bdfc94-05bb-a8b7-c363-0df233354852:bc3b1c4f-fea3-e539-8d2d-8276ab1e70cf&clientTag=html5:v1.11.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1sb2wtcGNzLS13ZWVrLTUtZGF5LTEvMTA5NDQ4OS9wbGF5ZXI/bGluZWFySWQ9MTAwMDUwMDEzJmlzTGl2ZT10cnVl
 https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 
-#EXTINF: -1 tvg-id="" group-title="Sports" tvg-logo="https://content.astro.com.my/channels/Astro-Arena-HD-235",Astro Arena HD
+#EXTINF: -1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD 
@@ -918,22 +918,22 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://assets.radioactive.sg/org-astro/f57c7814-176b-4721-aee1-ef76cb335c1c-astro-336x160-era-sabah.png",ERA Sabah
+#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128819046-ed79afa6-48e1-492f-94e3-c19a59095c7d.png",ERA Sabah
 https://astro2.rastream.com/amp-era-kk
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://assets.radioactive.sg/org-astro/07c5cb62-80ee-4a74-8cda-5473f1804e04-astro-336x160-era-sarawak.png",ERA Sarawak
+#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128819195-82e3d7c4-979f-4a7b-b9e0-41821d745179.png",ERA Sarawak
 https://astro2.rastream.com/amp-era-kch
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://assets.radioactive.sg/org-astro/127b6ea9-171b-4548-b82b-8f82205b3269-astro-336x160-hitz-sabah.png",HITZ Sabah
+#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128819292-90dcaf9c-814b-4b83-b30d-f76c57c8ea02.png",HITZ Sabah
 https://astro1.rastream.com/amp-hitz-kk
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://assets.radioactive.sg/org-astro/be44a30b-ebc1-47e4-9d9b-acc0cb0a3388-astro-336x160-hitz-sarawak.png",HITZ Sarawak
+#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128819352-999d1e20-cde9-4cb2-84d0-16816b9a4b2d.png",HITZ Sarawak
 https://astro1.rastream.com/amp-hitz-kch
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://assets.radioactive.sg/org-astro/1e17c6bb-0238-45c7-a1fd-3a2cd58a0c8e-astro-336x160-my-sabah.png",MY Sabah
+#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128819416-de9636f1-a2d0-41b8-83ee-07364aa3d6bb.png",MY Sabah
 https://astro1.rastream.com/amp-myfm-kk
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://assets.radioactive.sg/org-astro/49f986c1-6234-4d0c-a97e-96ea9c34517e-astro-336x160-my-sarawak.png",MY Sarawak
+#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-logo="https://user-images.githubusercontent.com/85995579/128819553-955ecb59-b3bc-4698-b73b-2e798490b6b2.png",MY Sarawak
 https://astro1.rastream.com/amp-myfm-kch
 
 #EXTINF:-1 tvg-id="" group-title="GO Exclusive" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus HD
