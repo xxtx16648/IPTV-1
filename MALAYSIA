@@ -101,21 +101,34 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
 http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
-http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6740
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD 
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
@@ -517,11 +530,21 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227600/3221227600.mpd
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227628/3221227628.mpd
 
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227567/3221227567.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -659,6 +682,11 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjlmNjE3MDktNWRjMC0zMWUyLWE3OWMtZWU5YjE3MDBkNjJm
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 https://web.hypp.tv:443/PLTV/88888888/224/3221227590/3221227590.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png",Nat Geo People HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
