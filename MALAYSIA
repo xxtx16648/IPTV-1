@@ -622,8 +622,13 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/120
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png",Disney Channel (M)
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/121
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png",Disney Junior
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png",Disney Junior (E)
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/122
+
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png",Disney Junior (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -714,7 +719,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX HD
-https://nonton.site:8843/provision/pp/37417
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/91
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Asia HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -723,9 +728,10 @@ https://nonton.site:8843/provision/pp/37417
 https://web.hypp.tv:443/PLTV/88888888/224/3221227613/3221227613.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png",Animax HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/102
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s900-c-k-c0x00ffffff-no-rj",Aniplus
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/103
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",TV Sukan
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
