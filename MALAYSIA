@@ -13,10 +13,7 @@ https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/5
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUDQfMsnCicDG7vXOw4keTo)/dm/3/x6qp375/d/live-3.m3u8
