@@ -7,7 +7,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUDQfMsnCicDG7vXOw4keTo)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRsv3NXqOeRbGmHotsbOSSA)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -54,7 +54,7 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbBaiAfnaRnRLWGwNosm1Ks)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +62,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/9
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYtVWJheGzDpHsiJ3uswQIk)/dm/3/x6qud17/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png,TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -70,7 +70,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/9
 https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRjCSmmyVrdgHmzMXcog7Vs)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe70l5OEMAreoTs80Np2boY)/dm/3/x6qqja6/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",LAKU Mall HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -81,7 +81,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/13
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0t0RlVMmMyTF1aw33ArbMAg)/dm/3/x6zvnex/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
