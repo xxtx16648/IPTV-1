@@ -761,7 +761,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosports HD
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563158
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network HD
