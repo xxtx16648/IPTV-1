@@ -765,6 +765,187 @@ http://50.7.161.82:8277/streams/d/astrogolf_pye/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 http://50.7.161.82:8277/streams/d/astrocricket_pye/playlist.m3u8
 
+------
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2
+http://stream2.grandma.fit/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosport 1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosport 1
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26972.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosport 2
+#https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosport 2
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26973.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sport 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",UK: BT Sports 1 HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26958.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports 1
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26959.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",UK: BT Sports 2 HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26960.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports 2
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26961.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports 3 HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26962.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports 3
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26963.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 1
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26964.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 2 (Live Match Only)
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26965.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 4
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26967.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 5 (Live Match Only)
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26968.ts
+#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 6 (Live Match Only)
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26969.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",UK: Sky Sports News HQ HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26942.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports News HQ
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26943.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Football HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26944.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Mix HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26946.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Premier League HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26947.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Action HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26948.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Arena HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26949.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Box Office (LIVE DURING BOXING MATCH)
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26950.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Cricket HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26951.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports F1
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26952.ts
+#EXTINF:-1 group-title="Sports",UK: Sky Sports Golf HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26953.ts
+#EXTINF:-1 group-title="Sports",UK: FreeSports
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26974.ts
+#EXTINF:-1 group-title="Sports",UK: Premier Sports 1
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26975.ts
+#EXTINF:-1 group-title="Sports",UK: Premier Sports 2
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26976.ts
+#EXTINF:-1 group-title="Sports",UK: LFC TV
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26977.ts
+#EXTINF:-1 group-title="Sports",UK: MUTV HD
+http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26978.ts
+
+---BEIN---
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1
+http://hbox.cdnss.me:80/bestcs/bestcs/5014
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/553
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/3943
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/7936
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/7937
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/7952
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2
+http://hbox.cdnss.me:80/bestcs/bestcs/552
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2
+http://hbox.cdnss.me:80/bestcs/bestcs/3944
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2
+http://hbox.cdnss.me:80/bestcs/bestcs/5013
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 
+http://hbox.cdnss.me:80/bestcs/bestcs/7953
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/4366
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/7954
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3
+http://hbox.cdnss.me:80/bestcs/bestcs/554
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3
+http://hbox.cdnss.me:80/bestcs/bestcs/3945
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 
+http://hbox.cdnss.me:80/bestcs/bestcs/7955
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 PREMIUM
+http://hbox.cdnss.me:80/bestcs/bestcs/7956
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 4
+http://hbox.cdnss.me:80/bestcs/bestcs/555
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 4
+http://hbox.cdnss.me:80/bestcs/bestcs/3946
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 4
+http://hbox.cdnss.me:80/bestcs/bestcs/5011
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5
+http://hbox.cdnss.me:80/bestcs/bestcs/556
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5
+http://hbox.cdnss.me:80/bestcs/bestcs/4194
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5
+http://hbox.cdnss.me:80/bestcs/bestcs/5010
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5 HD
+http://hbox.cdnss.me:80/bestcs/bestcs/4197
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5 HD
+http://hbox.cdnss.me:80/bestcs/bestcs/5007
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 6
+http://hbox.cdnss.me:80/bestcs/bestcs/557
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 6
+http://hbox.cdnss.me:80/bestcs/bestcs/4195
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 6
+http://hbox.cdnss.me:80/bestcs/bestcs/5009
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 7
+http://hbox.cdnss.me:80/bestcs/bestcs/587
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 7
+http://hbox.cdnss.me:80/bestcs/bestcs/4196
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 7
+http://hbox.cdnss.me:80/bestcs/bestcs/5008
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1
+http://hbox.cdnss.me:80/bestcs/bestcs/588
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1 HD
+http://hbox.cdnss.me:80/bestcs/bestcs/7959
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1 HD
+http://hbox.cdnss.me:80/bestcs/bestcs/7960
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
+http://hbox.cdnss.me:80/bestcs/bestcs/7950
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
+http://hbox.cdnss.me:80/bestcs/bestcs/7957
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
+http://hbox.cdnss.me:80/bestcs/bestcs/7961
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/590
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/5004
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/7946
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/7947
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
+http://hbox.cdnss.me:80/bestcs/bestcs/7958
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/4363
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/5003
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/7948
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA EN
+http://hbox.cdnss.me:80/bestcs/bestcs/7951
+
 #EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 
