@@ -83,6 +83,8 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26978.ts
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1
 http://hbox.cdnss.me:80/bestcs/bestcs/5014
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/553
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/3943
@@ -100,6 +102,8 @@ http://hbox.cdnss.me:80/bestcs/bestcs/3944
 http://hbox.cdnss.me:80/bestcs/bestcs/5013
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 
 http://hbox.cdnss.me:80/bestcs/bestcs/7953
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/4366
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
@@ -169,4 +173,6 @@ http://hbox.cdnss.me:80/bestcs/bestcs/5003
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
 http://hbox.cdnss.me:80/bestcs/bestcs/7948
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 EN
+http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA EN
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
