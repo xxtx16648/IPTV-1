@@ -970,7 +970,7 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7951
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA EN
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TerengganuFM.jpg",988
+#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TerengganuFM.jpg",Terengganu FM
 https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/manifest.mpd
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
