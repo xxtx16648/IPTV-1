@@ -970,8 +970,11 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7951
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA EN
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TerengganuFM.jpg",Terengganu FM
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TerengganuFM.jpg",Terengganu FM
 https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/manifest.mpd
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://radio.ikim.my/wp-content/uploads/2019/03/logo-2.png",IKIM FM
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_20572123_NmJrO4f4_MTAzLjIxLjgxLjM6ODA!_000000DZiY3&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk4NzQ3MjksImV4cCI6MTYyOTk2MTEyOX0.GPDQ7aJ3EFg6g6JBMuiU3WfeiPc_RdaoPd7G1L0aS7w&lan=%5B%22ms%22%5D&setLanguage=true
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
