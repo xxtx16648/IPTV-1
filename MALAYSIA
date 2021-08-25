@@ -7,7 +7,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS4QSOECAPL5_UxxuCc-IrE)/dm/3/x6qp375/d/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS4QSOECAPL5_UxxuCc-IrE)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -20,9 +20,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",Al-Hijrah 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227507/3221227507.mpd
+https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_WFEqyGxZ7rPkYs4TkxsBQY)/dm/3/x6rsa3u/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -54,7 +52,7 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSo2s-d5bqYMMs8N3tRNDJw)/dm/3/x6qp6ou/s/live-2.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSo2s-d5bqYMMs8N3tRNDJw)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +60,7 @@ https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSo2s-d5bqYMMs8N3t
 https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYtVWJheGzDpHsiJ3uswQIk)/dm/3/x6qud17/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pPij-RmQiG-S5Bo8j8YG_E)/dm/3/x7a7ru1/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png,TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -70,7 +68,7 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYtVWJheGzDpHsiJ3u
 https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe70l5OEMAreoTs80Np2boY)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUp-hy2f1v4X5YK8L7kDEwQ)/dm/3/x6qqja6/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",LAKU Mall HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -81,7 +79,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pqYSayP_cNOEB5guq9cc1w)/dm/3/x6zvnex/s/live-1.m3u8
+https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0izZjXQNQDOYA9ocxT8HIV0)/dm/3/x6zvnex/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
@@ -394,9 +392,7 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 https://web.hypp.tv:443/PLTV/88888888/224/3221227586/3221227586.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png",Al Jazeera English HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227623/3221227623.mpd
+https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_WFEqyGxZ7rPkYs4TkxsBQY)/dm/3/x6rsa3u/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png",Sky News HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -404,9 +400,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227623/3221227623.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227718/3221227718.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png",CNA HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227543/3221227543.mpd
+https://stream-02.sg1.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIalpZfBbLCyjSrhr63boFnhfk)/dm/3/x7ptegr/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png",Bloomberg TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -705,29 +699,45 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/147
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImIzY2NmNzNhXzdhNjZfNGY4NV9hZTc0XzExMzY3ZmZiMmZhNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3d%3d&signature=9pKxHV0BEiPLpHLsamIWRioSIIk%3d
+https://linear01-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD 
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6708
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImIzY2NmNzNhXzdhNjZfNGY4NV9hZTc0XzExMzY3ZmZiMmZhNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3d%3d&signature=9pKxHV0BEiPLpHLsamIWRioSIIk%3d
+https://linear01-playback.sooka.my/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6710
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImIzY2NmNzNhXzdhNjZfNGY4NV9hZTc0XzExMzY3ZmZiMmZhNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3d%3d&signature=9pKxHV0BEiPLpHLsamIWRioSIIk%3d
+https://linear01-playback.sooka.my/CH5/masterCH5.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6711
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeXVQbWphTTJQSDRncWRvWF9Fa3FIRk5vTmFGWEhzVU9CX3RTUEMwamZyckFYZHhya0dxUUEzbFlzUkZnMnU4dmYyUFFIcm9BUmFSMEtkUEtrajRydDNycTN6R2JBcER2MWFRVnNBS3dlQ20zdjlnTVZORVJQSnBrTVIyR2VJeW5yMGZPbkVYNDltVkJFdVdLVTlCTlFnbk9FRFRhMURkd1h1aWRWeGVaZFhRTU1lZmlXOE5CbGZ0aDlJalZRUHF6RW5ESWtCTFRKZG5hUjRUYWR4VXY5X0NZSUpJbDItWVdvdlJUU2I2d0g3ekJZeTBJeTVLSm1VNUdSdTk0Z0hid1VudkxNclpuLVJMS0o4SDhZd2tiODd1NTFWV2tma2ZVaGR4akluSGNaam1BaXdGcmVSMnljaF9CaEYzUHNyc21DWDRHaUF5RnpvSmEwQ2ZKSFJNRktibXlIaXlxb0poQzRMdUZXYUlqZkxzQVlSdFhnTWVPbm5fbnNINUZ3anhUNTdDMVhkQjJZLVE4aTBsdVV0NGtnZXJ6LXVqd3Vaei1XV2hfSzJvbnBybU9rTXFEV1NwcHdtNDRScHl3NC14ZmhWUEo1bWRBM3B0VE45d2lPZG1pYlVYWGFVcTc4U3lyWUo5azFtR3dmcl9ycHhzVHBYcEs2MTg5QWM4TjFJYVdNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI1MTQ1IiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6ImIzY2NmNzNhXzdhNjZfNGY4NV9hZTc0XzExMzY3ZmZiMmZhNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5dVBtamFNMlBINGdxZG9YX0VrcUhGTm9OYUZYSHNVT0JfdFNQQzBqZnJyQVhkeHJrR3FRQTNsWXNSRmcydTh2ZjJQUUhyb0FSYVIwS2RQS2tqNHJ0M3JxM3pHYkFwRHYxYVFWc0FLd2VDbTN2OWdNVk5FUlBKcGtNUjJHZUl5bnIwZk9uRVg0OW1WQkV1V0tVOUJOUWduT0VEVGExRGR3WHVpZFZ4ZVpkWFFNTWVmaVc4TkJsZnRoOUlqVlFQcXpFbkRJa0JMVEpkbmFSNFRhZHhVdjlfQ1lJSklsMi1ZV292UlRTYjZ3SDd6Qll5MEl5NUtKbVU1R1J1OTRnSGJ3VW52TE1yWm4tUkxLSjhIOFl3a2I4N3U1MVZXa2ZrZlVoZHhqSW5IY1pqbUFpd0ZyZVIyeWNoX0JoRjNQc3JzbUNYNEdpQXlGem9KYTBDZkpIUk1GS2JteUhpeXFvSmhDNEx1RldhSWpmTHNBWVJ0WGdNZU9ubl9uc0g1RndqeFQ1N0MxWGRCMlktUThpMGx1VXQ0a2dlcnotdWp3dVp6LVdXaF9LMm9ucHJtT2tNcURXU3Bwd200NFJweXc0LXhmaFZQSjVtZEEzcHRUTjl3aU9kbWliVVhYYVVxNzhTeXJZSjlrMW1Hd2ZyX3JweHNUcFhwSzYxODlBYzhOMUlhV009IiwidWRpZCI6IjJlMTJlZDJlLWE4ZmYtNDdkMS04MmNiLTNjNTQ5OGJiY2NkZF93ZWJfbW9oZC5mYXV6aS5tQGdtYWlsLmNvbV9XRUItZDJhZjFiMzAtOTU3OS1jZTUxLTQ2YWUtNmYwZGJkMjcwMWIxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjozMjA5fQ%3d%3d&signature=9pKxHV0BEiPLpHLsamIWRioSIIk%3d
+https://linear02-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6712
