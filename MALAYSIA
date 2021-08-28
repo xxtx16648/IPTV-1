@@ -1064,7 +1064,7 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7951
 https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/manifest.mpd
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://radio.ikim.my/wp-content/uploads/2019/03/logo-2.png",IKIM FM
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_20572123_NmJrO4f4_MTAzLjIxLjgxLjM6ODA!_000000DZiY3&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk4NzQ3MjksImV4cCI6MTYyOTk2MTEyOX0.GPDQ7aJ3EFg6g6JBMuiU3WfeiPc_RdaoPd7G1L0aS7w&lan=%5B%22ms%22%5D&setLanguage=true
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_25899588_sOXnKIy1_MTAzLjIxLjgxLjk6ODA!_000000Ro07I&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MzAxMzgxMjQsImV4cCI6MTYzMDIyNDUyNH0.1_IllB570ouXhVvR_Z289jmwANLhB1icauBfcOFWe7g&lan=%5B%22ms%22%5D&setLanguage=true
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
@@ -1232,6 +1232,8 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham
 http://198.16.106.61:8277/streams/d/Vasantham/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 group-title="Indonesia"tvg-logo="https://i.ibb.co/gVR4RsF/tvri.png",TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
