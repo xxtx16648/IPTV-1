@@ -7,7 +7,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS4QSOECAPL5_UxxuCc-IrE)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08mPCrxMZrmoTpGckfUyGREU)/dm/3/x7a7rpm/s/live-3.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -20,7 +20,9 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",Al-Hijrah 
-https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_WFEqyGxZ7rPkYs4TkxsBQY)/dm/3/x6rsa3u/s/live-2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+https://web.hypp.tv:443/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -47,7 +49,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSo2s-d5bqYMMs8N3tRNDJw)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfcQOunSNeec4RFnE01oQ8g)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -970,8 +972,6 @@ http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1
 http://hbox.cdnss.me:80/bestcs/bestcs/5014
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/553
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/3943
@@ -990,8 +990,6 @@ http://hbox.cdnss.me:80/bestcs/bestcs/5013
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 
 http://hbox.cdnss.me:80/bestcs/bestcs/7953
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/4366
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/7954
@@ -999,7 +997,7 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7954
 http://hbox.cdnss.me:80/bestcs/bestcs/554
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3
 http://hbox.cdnss.me:80/bestcs/bestcs/3945
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/7955
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 PREMIUM
 http://hbox.cdnss.me:80/bestcs/bestcs/7956
@@ -1033,12 +1031,10 @@ http://hbox.cdnss.me:80/bestcs/bestcs/4196
 http://hbox.cdnss.me:80/bestcs/bestcs/5008
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1
 http://hbox.cdnss.me:80/bestcs/bestcs/588
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1 HD
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1 
 http://hbox.cdnss.me:80/bestcs/bestcs/7959
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1 HD
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 2 HD
 http://hbox.cdnss.me:80/bestcs/bestcs/7960
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
-http://hbox.cdnss.me:80/bestcs/bestcs/7950
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
 http://hbox.cdnss.me:80/bestcs/bestcs/7957
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
@@ -1060,8 +1056,8 @@ http://hbox.cdnss.me:80/bestcs/bestcs/5003
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
 http://hbox.cdnss.me:80/bestcs/bestcs/7948
 #EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/7951
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA EN
+http://hbox.cdnss.me:80/bestcs/bestcs/7950
+#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 EN
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TerengganuFM.jpg",Terengganu FM
