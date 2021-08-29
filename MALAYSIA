@@ -306,6 +306,9 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6803
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #http://50.7.161.82:8277/streams/d/SetOne/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Korean" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?,Sony GEM TV
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/105
+
 #EXTINF:-1 tvg-id="" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
@@ -567,6 +570,9 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png",Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
