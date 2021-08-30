@@ -156,6 +156,18 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1 tvg-id="120" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",Go Shop GAAYA
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/59_144.png",Astro Tutor TV SK
+https://nonton.site:8443/rootproject87/rootproject87/37395
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/127_144.png",Astro Tutor TV PT3
+https://nonton.site:8443/rootproject87/rootproject87/37396
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png",Astro Tutor TV SPM
+https://nonton.site:8443/rootproject87/rootproject87/37397
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/118_144.png",Astro TVIQ HD
+https://nonton.site:8443/rootproject87/rootproject87/37398
+
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/19
 
@@ -668,7 +680,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network HD
-http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391013
+https://nonton.site:8443/rootproject87/rootproject87/37411
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
