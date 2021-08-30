@@ -454,7 +454,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png",CGTN HD
-https://live.cgtn.com/1000/prog_index.m3u8
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37379
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
@@ -622,19 +622,22 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227602/3221227602.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png",Disney Channel (E)
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2186661/b7342b68b35066a99c9912705ef8ffd4/480x273-Q95_b7342b68b35066a99c9912705ef8ffd4.jpg",Disney Channel (E)
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/120
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png",Disney Channel (M)
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2186661/b7342b68b35066a99c9912705ef8ffd4/480x273-Q95_b7342b68b35066a99c9912705ef8ffd4.jpg",Disney Channel (M)
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/121
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png",Disney Junior (E)
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188879/cf7c8050218ce18f6c18af68c315a4ea/480x273-Q95_cf7c8050218ce18f6c18af68c315a4ea.jpg",Disney Junior (E)
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/122
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png",Disney Junior (ID)
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188879/cf7c8050218ce18f6c18af68c315a4ea/480x273-Q95_cf7c8050218ce18f6c18af68c315a4ea.jpg",Disney Junior (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188880/b279b7348ae99dbb581abe69d3fa1c98/480x273-Q95_b279b7348ae99dbb581abe69d3fa1c98.jpg",Disney XD
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37400
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",Blue Ant Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -854,23 +857,25 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",Bein Sports HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6749
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37432
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BeIN Sports MAX HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6748
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563158
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37434
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network HD
-http://50.7.161.82:8277/streams/d/wwe_pye/playlist.m3u8
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37435
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Sports",Golf Channel HD
-http://50.7.161.82:8277/streams/d/astrogolf_pye/playlist.m3u8
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37436
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Sports",RugbyPass TV HD
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37437
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6717
-http://50.7.161.82:8277/streams/d/astrocricket_pye/playlist.m3u8
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37438
 ---TSN---
 #EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
 http://iptv.tvmalaysia.cc:80/penang170/penang170/8923
