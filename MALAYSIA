@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://thisistyx.github.io/epg/astro.xml refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url=https://bit.ly/astroandunifiepg refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 HD 
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
