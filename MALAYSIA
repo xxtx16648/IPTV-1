@@ -7,7 +7,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
-https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08mPCrxMZrmoTpGckfUyGREU)/dm/3/x7a7rpm/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWYyEZlXyzrk_uNklHAYq0I)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,10 +50,10 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfcQOunSNeec4RFnE01oQ8g)/dm/3/x6qp6ou/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08ki3uj7Ze7-ZjFcfd6Rg6fw)/dm/3/x7a7rxp/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7 (1080P)
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfcQOunSNeec4RFnE01oQ8g)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08ki3uj7Ze7-ZjFcfd6Rg6fw)/dm/3/x7a7rxp/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -61,7 +61,7 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfcQOunSNeec4RFnE0
 https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08oxRXnCe9bzuQMsQH-rXAjA)/dm/3/x7a7ru1/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kfZfr21O7V4jnJIpfXxkkc)/dm/3/x7a7ru1/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -376,7 +376,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="408" group-title="Movies" tvg-logo="https://th.bing.com/th/id/R3bfca344418333ee12de39c3f50fb2d3?rik=oE0ztn2yvOcdwQ&pid=ImgRaw",Paramount Network
+#EXTINF:-1 tvg-id="408" group-title="Movies" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227565/3221227565.mpd
@@ -467,7 +467,7 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 https://web.hypp.tv:443/PLTV/88888888/224/3221227586/3221227586.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png",Al Jazeera English HD
-https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_WFEqyGxZ7rPkYs4TkxsBQY)/dm/3/x6rsa3u/s/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_eXTULf0Tc9slp2vu1b_88k)/dm/3/x6rsa3u/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png",Sky News HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1090,7 +1090,7 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7951
 https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/manifest.mpd
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://radio.ikim.my/wp-content/uploads/2019/03/logo-2.png",IKIM FM
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_21014589_eL8VAzWJ_MTAzLjIxLjgxLjM6ODA!_000000ESZ8g&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MzAzMTcxMjMsImV4cCI6MTYzMDQwMzUyM30.ScxM8A3-9uduUuvTNztS06Gx5F4cWb388c0UVP8CAvA&lan=%5B%22ms%22%5D&setLanguage=true
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_21255282_bx6zCr2q_MTAzLjIxLjgxLjM6ODA!_000000FlRkg&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MzA1NTc3NzcsImV4cCI6MTYzMDY0NDE3N30.67JRn-TE2P7QPCRC_pbRUfEf57SGWjLsm88xpTeOrYM&lan=%5B%22ms%22%5D&setLanguage=true
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
