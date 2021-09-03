@@ -857,25 +857,29 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",Bein Sports HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6749
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37432
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BeIN Sports MAX HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6748
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37434
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network HD
+http://50.7.161.82:8277/streams/d/wwe_pye/playlist.m3u8
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37435
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Sports",Golf Channel HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/159
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37436
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Sports",RugbyPass TV HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37437
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37438
+http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 ---TSN---
 #EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
 http://iptv.tvmalaysia.cc:80/penang170/penang170/8923
