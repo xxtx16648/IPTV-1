@@ -156,29 +156,38 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF:-1 tvg-id="120" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",Go Shop GAAYA
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/59_144.png",Astro Tutor TV SK
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37395
+
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/59_144.png",Astro Tutor TV SK (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=788e2ed6fda9f5ab3fb850f35689b710:9663d5c4d703d61566d45f898d476d1d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_ott.mpd
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37395
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/127_144.png",Astro Tutor TV PT3
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37396
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/127_144.png",Astro Tutor TV PT3 (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdb217f8c525412973d21231e15b7910:3d0d24f53f93b2862d1c09f652bd4cf7
 http://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_ott.mpd
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37396
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png",Astro Tutor TV SPM
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37397
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png",Astro Tutor TV SPM (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e8eb30e1c218c1e9bf10a8d86beb10:ec203919e7b1995c8d3765d50783ccf5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_ott.mpd
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37397
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/118_144.png",Astro TVIQ HD
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37398
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/118_144.png",Astro TVIQ HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec94ecd88efaa575523873e45c5ae710:6ea4f6386d4aa84db6e7914cfc50fea2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5030/default_ott.mpd
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37398
+
 
 #EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/19
@@ -654,8 +663,10 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/122
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188880/b279b7348ae99dbb581abe69d3fa1c98/480x273-Q95_b279b7348ae99dbb581abe69d3fa1c98.jpg",Disney XD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7198
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37400
+
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188880/b279b7348ae99dbb581abe69d3fa1c98/480x273-Q95_b279b7348ae99dbb581abe69d3fa1c98.jpg",Disney XD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/7198
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -857,22 +868,24 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",Bein Sports HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6749
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37432
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",Bein Sports HD
+http://iptv.tvmalaysia.cc:80/penang170/penang170/6749
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BeIN Sports MAX HD
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6748
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37434
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE Network HD
-http://50.7.161.82:8277/streams/d/wwe_pye/playlist.m3u8
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37435
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Sports",Golf Channel HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/159
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37436
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Sports",RugbyPass TV HD
@@ -880,6 +893,7 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37437
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
 http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+
 ---TSN---
 #EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
 http://iptv.tvmalaysia.cc:80/penang170/penang170/8923
@@ -1012,6 +1026,12 @@ http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26976.ts
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26977.ts
 #EXTINF:-1 group-title="Sports",UK: MUTV HD
 http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26978.ts
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="Sports",Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/fight-box.png",Fight Box
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/501
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nba.png",NBA TV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/160
 #EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nba.png",NBA
