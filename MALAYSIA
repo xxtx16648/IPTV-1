@@ -206,7 +206,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227504/3221227504.mpd
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37428
 
 #EXTINF:-1 tvg-id="" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen HD
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37344
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/144
 
 #EXTINF:-1 tvg-id="" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Astro Vellithirai
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
@@ -503,7 +503,7 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227619/3221227619.mpd
+https://web.hypp.tv:443/PLTV/88888888/224/3221227811/3221227811.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",EuroNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -640,24 +640,21 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227602/3221227602.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2186661/b7342b68b35066a99c9912705ef8ffd4/480x273-Q95_b7342b68b35066a99c9912705ef8ffd4.jpg",Disney Channel (E)
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2186661/b7342b68b35066a99c9912705ef8ffd4/480x273-Q95_b7342b68b35066a99c9912705ef8ffd4.jpg",Disney Channel 
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37402
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2186661/b7342b68b35066a99c9912705ef8ffd4/480x273-Q95_b7342b68b35066a99c9912705ef8ffd4.jpg",Disney Channel (M)
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/121
-
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188879/cf7c8050218ce18f6c18af68c315a4ea/480x273-Q95_cf7c8050218ce18f6c18af68c315a4ea.jpg",Disney Junior (E)
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188879/cf7c8050218ce18f6c18af68c315a4ea/480x273-Q95_cf7c8050218ce18f6c18af68c315a4ea.jpg",Disney Junior 
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37401
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188880/b279b7348ae99dbb581abe69d3fa1c98/480x273-Q95_b279b7348ae99dbb581abe69d3fa1c98.jpg",Disney XD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37400
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://weareblahs.s-ul.eu/IJoyJ73H",Rock Entertainment
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://weareblahs.s-ul.eu/rn5Cmq0S",Rock Extreme
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png",Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
@@ -1103,9 +1100,6 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7951
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TerengganuFM.jpg",Terengganu FM
 https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/manifest.mpd
-
-#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://radio.ikim.my/wp-content/uploads/2019/03/logo-2.png",IKIM FM
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_21255282_bx6zCr2q_MTAzLjIxLjgxLjM6ODA!_000000FlRkg&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MzA1NTc3NzcsImV4cCI6MTYzMDY0NDE3N30.67JRn-TE2P7QPCRC_pbRUfEf57SGWjLsm88xpTeOrYM&lan=%5B%22ms%22%5D&setLanguage=true
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
