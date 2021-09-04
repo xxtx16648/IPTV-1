@@ -273,13 +273,13 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/48
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png",Astro Xiao Tai Yang HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6741
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",Astro AEC HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/43
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png",Astro Shuang Xing HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6731
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro Quan Jia HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/47
@@ -290,10 +290,10 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/47
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png",TVB Jade
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6841
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png",Astro AOD HD 311
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6702
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/388_144.png",STAR Chinese Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,7 +301,7 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6702
 https://web.hypp.tv:443/PLTV/88888888/224/3221227516/3221227516.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6842
+http://50.7.161.82:8277/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
