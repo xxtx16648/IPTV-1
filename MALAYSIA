@@ -68,10 +68,10 @@ https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kfZfr21O7V4jnJIpf
 https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWNFK2tLI1r-oEdQwESEwYY)/dm/3/x6qqja6/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9 (1080P)
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWNFK2tLI1r-oEdQwESEwYY)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png,TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -761,12 +761,6 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s900-c-k-c0x00ffffff-no-rj",Aniplus
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/103
-
-#EXTINF:-1 group-title="Sports", AisPlay 1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports", AisPlay 2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTMK05" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",TV Sukan
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
