@@ -46,7 +46,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/244
 https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",TV Okey
-https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/manifest.mpd
+https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbGfVFZGVqxHHcVHugTfQNM)/dm/3/x6qp6ou/s/live-3.m3u8
@@ -515,7 +515,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/66
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",Berita RTM
-https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtm3hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
