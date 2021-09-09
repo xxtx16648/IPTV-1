@@ -238,7 +238,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227562/3221227562.mpd
 #EXTINF:-1 tvg-id="" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6742
 
-#EXTINF:-1 tvg-id="" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",ABO Movies Thangathirai HD (OTT)
+#EXTINF:-1 tvg-id="BoxOfficeThangathirai" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",ABO Movies Thangathirai HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
@@ -329,22 +329,22 @@ http://50.7.161.82:8277/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",TVBS Asia HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37361
 
-#EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
+#EXTINF:-1 tvg-id="CCM" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png",TVBS News (OTT)
+#EXTINF:-1 tvg-id="TVBSNews" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png",TVBS News (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b864005acedefea3a5af2158bef9810:9fe303ceab15032de46c5aba1e8922dd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png",Phoenix Chinese Channel (OTT)
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png",Phoenix Chinese Channel (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
 http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",Phoenix Info News HD (OTT)
+#EXTINF:-1 tvg-id="" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",Phoenix Info News HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
@@ -518,12 +518,12 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yek43cnl6Mlo1OFNEU2tZcVZlYWZvLTZidEYyc01fTnk4N1pUUmgxY2xKOTlWc2daM20tbExyaVlRd1p3YTNDTVpKX0E4Y21VeHo2NUFLbEthUjhtS1dhaDBFLWVsT3B5V0NVc295dVVySHF2akd2Vl9GaWIxM25qM0sxSl9GaEtfQzV2WVZ1Z1JBeTFaVy1EVTVBRVpwSjFvVzhKRndwNzJVVDhNc2JZalVveTFyX3ZDdTdRdzlfX18wYjY4TGdHemV5dEZQc09tZ1VWZDRoTUJ6Ykt4QUlOdUJRamdldF9EamxZTkw3cnZVYnJJMTFZbVpkU3Y3UlF2bmZ0SjRCZjFGbG9ZNlhrV3FrTzBuckNuZGpvYnZYS2I4M2RaRE9ZUzlXQVluQllNSTZTN0VfX3lreGNGczZtcVY5VUNNZFl0dnhudHJ3MzVjM1BRdUFmOFA0akhGNmxsaG1UZ1Q2Sm53M2tuQWdEZHd6dl93enRLbExnTVBYaDRfTFozZ2RZUWFMam5weGttenBKSWVqOFo0aU5SVEpyQi01dEFaeWhwV2ljOHNyNzRhSWxIcEhhc3NNSlRBalkySFhtYjc5OGNtVjNqT1loVW5PNlJTVFhmdHNzcnVJQUI3dFlXVkNobWdrME5wV011WHFJRkJfZk5fZVJ3dWxLb2ZSN3ZvaHd5S1VTUXA5WVNBOTZoUzVUSHVhdUhLJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM0MTAzMTIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiNGZjMTEyZjlfMmE5Zl80ZWI5Xzg5YTFfYmQ3ODBkM2UzZGU2IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHpON3J5ejJaNThTRFNrWXFWZWFmby02YnRGMnNNX055ODdaVFJoMWNsSjk5VnNnWjNtLWxMcmlZUXdad2EzQ01aSl9BOGNtVXh6NjVBS2xLYVI4bUtXYWgwRS1lbE9weVdDVXNveXVVckhxdmpHdlZfRmliMTNuajNLMUpfRmhLX0M1dllWdWdSQXkxWlctRFU1QUVacEoxb1c4SkZ3cDcyVVQ4TXNiWWpVb3kxcl92Q3U3UXc5X19fMGI2OExnR3pleXRGUHNPbWdVVmQ0aE1CemJLeEFJTnVCUWpnZXRfRGpsWU5MN3J2VWJySTExWW1aZFN2N1JRdm5mdEo0QmYxRmxvWTZYa1dxa08wbnJDbmRqb2J2WEtiODNkWkRPWVM5V0FZbkJZTUk2UzdFX195a3hjRnM2bXFWOVVDTWRZdHZ4bnRydzM1YzNQUXVBZjhQNGpIRjZsbGhtVGdUNkpudzNrbkFnRGR3enZfd3p0S2xMZ01QWGg0X0xaM2dkWVFhTGpucHhrbXpwSkllajhaNGlOUlRKckItNXRBWnlocFdpYzhzcjc0YUlsSHBIYXNzTUpUQWpZMkhYbWI3OThjbVYzak9ZaFVuTzZSU1RYZnRzc3J1SUFCN3RZV1ZDaG1nazBOcFdNdVhxSUZCX2ZOX2VSd3VsS29mUjd2b2h3eUtVU1FwOVlTQTk2aFM1VEh1YXVISyIsInVkaWQiOiJhYzY0MWY0Yi1kMDJlLTQwYjgtODdkNS02ZDAyYWMxNzFlMjJfd2ViX3NhYnJpYWRpYjIzMkBnbWFpbC5jb21fV0VCLWI5MjFkMmU4LTk2NTMtMjI0NC1lNTEzLTU1YzQwNTE4M2RmZCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=h1AuVQ5so4bvbVM%2bTZyfK3nKEE4%3d&sessionId=a499ce45-1331-7cb9-76c1-a422ce68d2d2:82da11f4-91d2-b00f-c037-4b277cedfaf4&clientTag=html5:v7.38.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2Nlcml0YS8xMTAzNjMyL3BsYXllcj9saW5lYXJJZD0xMDAwNjUxOTQmaXNMaXZlPXRydWU=
 https://linear03-playback.sooka.my/CH5/masterCH5.mpd
-
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani HD
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
