@@ -375,7 +375,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="ONE" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",ONE HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
 #EXTINF:-1 tvg-id="OhK" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",Oh!K HD
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6726
@@ -534,7 +534,7 @@ https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227511/3221227511.mpd
 
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png",CGTN HD
+#EXTINF:-1 tvg-id="CGTN" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png",CGTN HD
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN HD
@@ -583,7 +583,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227486/3221227486.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227546/3221227546.mpd
 
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
+#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227595/3221227595.mpd
@@ -598,7 +598,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227626/3221227626.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227629/3221227629.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
+#EXTINF:-1 tvg-id="501" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227577/3221227577.mpd
@@ -613,12 +613,12 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227672/3221227672.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227531/3221227531.mpd
 
-#EXTINF:-1 tvg-id=" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",Travel Channel HD
+#EXTINF:-1 tvg-id="521" group-title="Documentary" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",Travel Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227593/3221227593.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",Luxe.TV HD
+#EXTINF:-1 tvg-id="529" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",Luxe.TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227600/3221227600.mpd
