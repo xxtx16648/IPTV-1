@@ -92,7 +92,7 @@ https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0oYPOcyvXOcq77qsYW
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",Go Shop MYTV
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Special Channel" tvg-logo="https://i.postimg.cc/3rZbXvD8/astro-25-white.png",Astro 25 (Works in OTT)
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://i.postimg.cc/3rZbXvD8/astro-25-white.png",Astro 25 (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27536caa86695b7ededcc1f4a8ec7710:6183f4bb8a8b781c57eee44a08d0fa79
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5046/default_ott.mpd
