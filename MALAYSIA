@@ -414,13 +414,15 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/105
 https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",SCM Legend HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227566/3221227566.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064916067nrf.png",SCM HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227606/3221227606.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png",Yupp Thirai HD
@@ -431,11 +433,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227762/3221227762.mpd
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",Sony Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227498/3221227498.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies HD
@@ -457,13 +461,15 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227565/3221227565.mpd
 
 #EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #EXTINF:-1 tvg-id="HBO" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/54
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
@@ -485,7 +491,9 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/57
 
 #EXTINF:-1 tvg-id="Cinemax" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CINEMAX HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/65
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="FOXMovies" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png",FOX Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
