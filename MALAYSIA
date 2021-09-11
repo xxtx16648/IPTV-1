@@ -472,19 +472,19 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227568/3221227568.mpd
 #https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/54
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.dropbox.com/s/i33ddi4r4r2axn1/HBOHits-ASIA.png?dl=1",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/55
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.dropbox.com/s/nbh20sfv6tv8lkq/hbo_family.png?dl=1",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/56
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo%20signature.png?dl=1",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
@@ -619,10 +619,15 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://web.hypp.tv:443/PLTV/88888888/224/3221227626/3221227626.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png",France24
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227629/3221227629.mpd
+
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="data:image/png;base64,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",Fox News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 tvg-id="501" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -787,6 +792,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227525/3221227525.mpd
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227578/3221227578.mpd
 
+#EXTINF:-1 tvg-id="FOX" group-title="Entertainment" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png",FOX CRIME HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
 #EXTINF:-1 tvg-id="KIX" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",KIX HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -932,17 +942,20 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6712
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png",FOX Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png",FOX Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png",FOX Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",Bein Sports HD
