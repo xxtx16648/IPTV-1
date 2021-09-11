@@ -12,27 +12,28 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbo6ZVzA9-djhto3-z
 #EXTINF: -1 tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Free Channels",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd
 
 #EXTINF:-1 tvg-id="TVAlhijrah" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",Al-Hijrah 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/14
 https://web.hypp.tv:443/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",HyppInspirasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227601/3221227601.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227601/3221227601.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
@@ -43,7 +44,7 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/244
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd
 
 #EXTINF:-1 tvg-id="OKEY" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",TV Okey
 https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
@@ -57,7 +58,7 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbGfVFZGVqxHHcVHug
 #EXTINF:-1 tvg-id="DidikTVKPM" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 
 #EXTINF:-1 tvg-id="8TV" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcek3ruVxrM7xjgDf8J901A)/dm/3/x6qud17/s/live-2.m3u8
@@ -65,7 +66,7 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcek3ruVxrM7xjgDf8
 #EXTINF:-1 tvg-id="8TV" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227480/3221227480.mpd
 
 #EXTINF:-1 tvg-id="TV9" group-title="Free Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",TV9
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uRDdmWk)/dm/3/x6qqja6/s/live-3.m3u8
@@ -76,12 +77,12 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbxGC1twivzp1mr7uR
 #EXTINF:-1 tvg-id="TV9" group-title="Free Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",LAKU Mall HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
+#https://web.hypp.tv:443/PLTV/88888888/224/3221227560/3221227560.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="Free Channels" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm7hd.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.mpd
@@ -393,6 +394,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 #EXTINF:-1 tvg-id="tvN" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/135
 https://web.hypp.tv:443/PLTV/88888888/224/3221227556/3221227556.mpd
 
 #EXTINF:-1 tvg-id="K-Plus" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus HD
