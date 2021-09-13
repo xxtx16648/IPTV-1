@@ -705,7 +705,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227531/3221227531.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="NatGeoWild" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD (TEST)
+#EXTINF:-1 tvg-id="NatGeoWild" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e149afb0b7c99e25914e8101b90510:3e956389740e8f754bb7b93236566e1d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
@@ -719,6 +719,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 tvg-id="NationalGeographic" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97d54657824bd76ad454598ff06e9a10:8d43177cec60e6eecc1b9cc1b9946b36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Channel HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -796,6 +801,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227697/3221227697.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd
+
+EXTINF:-1 tvg-id="Boomerang" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png",Boomerang (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76e86bd70f0aa82c94b38d82953dd10:26a6ef5c1c56182a5314b79215b8d06d
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2186661/b7342b68b35066a99c9912705ef8ffd4/480x273-Q95_b7342b68b35066a99c9912705ef8ffd4.jpg",Disney Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -881,6 +891,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+
+#EXTINF:-1 tvg-id="NatGeoPeople" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png",Nat Geo People HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adc2b0b861272ae9b4e2de63d3521010:802a9a0eb7d176cdc9030050c6a368af
+http://linearjitp-playback.astro.com.my/dash-wv/linear/503/default_ott.mpd
 
 #EXTINF:-1 tvg-id="WarnerTV" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
