@@ -786,10 +786,10 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227697/3221227697.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #https://web.hypp.tv:443/PLTV/88888888/224/3221227602/3221227602.mpd
 
-#EXTINF:-1 tvg-id="Boomerang" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png",Boomerang (OTT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e76e86bd70f0aa82c94b38d82953dd10:26a6ef5c1c56182a5314b79215b8d06d
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
+#EXTINF:-1 tvg-id="Boomerang" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png",Boomerang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2186661/b7342b68b35066a99c9912705ef8ffd4/480x273-Q95_b7342b68b35066a99c9912705ef8ffd4.jpg",Disney Channel 
