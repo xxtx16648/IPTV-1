@@ -802,7 +802,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227697/3221227697.mpd
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd
 
-EXTINF:-1 tvg-id="Boomerang" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png",Boomerang (OTT)
+#EXTINF:-1 tvg-id="Boomerang" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png",Boomerang (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76e86bd70f0aa82c94b38d82953dd10:26a6ef5c1c56182a5314b79215b8d06d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
