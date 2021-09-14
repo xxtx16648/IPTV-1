@@ -350,6 +350,11 @@ http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
+#EXTINF:-1 tvg-id="CTIAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",CTI Asia HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+
 #EXTINF:-1 tvg-id="TVBEntertainmentNews" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png",TVB Entertainment News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
