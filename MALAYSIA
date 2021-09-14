@@ -1070,6 +1070,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227634/3221227634.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yek43cnl6Mlo1OFNEU2tZcVZlYWZvLTZidEYyc01fTnk4N1pUUmgxY2xKOTlWc2daM20tbExyaVlRd1p3YTNDTVpKX0E4Y21VeHo2NUFLbEthUjhtS1dhaDBFLWVsT3B5V0NVc295dVVySHF2akd2Vl9GaWIxM25qM0sxSl9GaEtfQzV2WVZ1Z1JBeTFaVy1EVTVBRVpwSjFvVzhKRndwNzJVVDhNc2JZalVveTFyX3ZDdTdRdzlfX18wYjY4TGdHemV5dEZQc09tZ1VWZDRoTUJ6Ykt4QUlOdUJRamdldF9EamxZTkw3cnZVYnJJMTFZbVpkU3Y3UlF2bmZ0SjRCZjFGbG9ZNlhrV3FrTzBuckNuZGpvYnZYS2I4M2RaRE9ZUzlXQVluQllNSTZTN0VfX3lreGNGczZtcVY5VUNNZFl0dnhudHJ3MzVjM1BRdUFmOFA0akhGNmxsaG1UZ1Q2Sm53M2tuQWdEZHd6dl93enRLbExnTVBYaDRfTFozZ2RZUWFMam5weGttenBKSWVqOFo0aU5SVEpyQi01dEFaeWhwV2ljOHNyNzRhSWxIcEhhc3NNSlRBalkySFhtYjc5OGNtVjNqT1loVW5PNlJTVFhmdHNzcnVJQUI3dFlXVkNobWdrME5wV011WHFJRkJfZk5fZVJ3dWxLb2ZSN3ZvaHd5S1VTUXA5WVNBOTZoUzVUSHVhdUhLJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMjUiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWZiZmZkMWZfZjIxM180MDE2XzlhNWFfMTE0MmJjZjRkZGFkIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHpON3J5ejJaNThTRFNrWXFWZWFmby02YnRGMnNNX055ODdaVFJoMWNsSjk5VnNnWjNtLWxMcmlZUXdad2EzQ01aSl9BOGNtVXh6NjVBS2xLYVI4bUtXYWgwRS1lbE9weVdDVXNveXVVckhxdmpHdlZfRmliMTNuajNLMUpfRmhLX0M1dllWdWdSQXkxWlctRFU1QUVacEoxb1c4SkZ3cDcyVVQ4TXNiWWpVb3kxcl92Q3U3UXc5X19fMGI2OExnR3pleXRGUHNPbWdVVmQ0aE1CemJLeEFJTnVCUWpnZXRfRGpsWU5MN3J2VWJySTExWW1aZFN2N1JRdm5mdEo0QmYxRmxvWTZYa1dxa08wbnJDbmRqb2J2WEtiODNkWkRPWVM5V0FZbkJZTUk2UzdFX195a3hjRnM2bXFWOVVDTWRZdHZ4bnRydzM1YzNQUXVBZjhQNGpIRjZsbGhtVGdUNkpudzNrbkFnRGR3enZfd3p0S2xMZ01QWGg0X0xaM2dkWVFhTGpucHhrbXpwSkllajhaNGlOUlRKckItNXRBWnlocFdpYzhzcjc0YUlsSHBIYXNzTUpUQWpZMkhYbWI3OThjbVYzak9ZaFVuTzZSU1RYZnRzc3J1SUFCN3RZV1ZDaG1nazBOcFdNdVhxSUZCX2ZOX2VSd3VsS29mUjd2b2h3eUtVU1FwOVlTQTk2aFM1VEh1YXVISyIsInVkaWQiOiJhYzY0MWY0Yi1kMDJlLTQwYjgtODdkNS02ZDAyYWMxNzFlMjJfd2ViX3NhYnJpYWRpYjIzMkBnbWFpbC5jb21fV0VCLWI5MjFkMmU4LTk2NTMtMjI0NC1lNTEzLTU1YzQwNTE4M2RmZCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=x3kLrZWqbFUCHOpbGDsf9rHStNU%3d&sessionId=e9336d2c-5360-44ad-7374-fabb3f7988b2:55038ffd-d017-a395-6180-5797e88338f3&clientTag=html5:v7.38.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L3RvdXItZXVyb3BlYW4tcmFsbHktaGlnaGxpZ2h0cy0yMDIxLzEwOTQ1MDcvcGxheWVyP2xpbmVhcklkPTEwMDA2NzQ5MCZpc0xpdmU9dHJ1ZQ==
 https://linear02-playback.sooka.my/CH5/masterCH5.mpd
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5020.m3u8
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",Bein Sports HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1080,6 +1081,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yek43cnl6Mlo1OFNEU2tZcVZlYWZvLTZidEYyc01fTnk4N1pUUmgxY2xKOTlWc2daM20tbExyaVlRd1p3YTNDTVpKX0E4Y21VeHo2NUFLbEthUjhtS1dhaDBFLWVsT3B5V0NVc295dVVySHF2akd2Vl9GaWIxM25qM0sxSl9GaEtfQzV2WVZ1Z1JBeTFaVy1EVTVBRVpwSjFvVzhKRndwNzJVVDhNc2JZalVveTFyX3ZDdTdRdzlfX18wYjY4TGdHemV5dEZQc09tZ1VWZDRoTUJ6Ykt4QUlOdUJRamdldF9EamxZTkw3cnZVYnJJMTFZbVpkU3Y3UlF2bmZ0SjRCZjFGbG9ZNlhrV3FrTzBuckNuZGpvYnZYS2I4M2RaRE9ZUzlXQVluQllNSTZTN0VfX3lreGNGczZtcVY5VUNNZFl0dnhudHJ3MzVjM1BRdUFmOFA0akhGNmxsaG1UZ1Q2Sm53M2tuQWdEZHd6dl93enRLbExnTVBYaDRfTFozZ2RZUWFMam5weGttenBKSWVqOFo0aU5SVEpyQi01dEFaeWhwV2ljOHNyNzRhSWxIcEhhc3NNSlRBalkySFhtYjc5OGNtVjNqT1loVW5PNlJTVFhmdHNzcnVJQUI3dFlXVkNobWdrME5wV011WHFJRkJfZk5fZVJ3dWxLb2ZSN3ZvaHd5S1VTUXA5WVNBOTZoUzVUSHVhdUhLJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzNDQiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiZTU1ODRjZmZfZDYxNV80OTEzXzk3YjhfY2RlZDVlNjc5YzE5IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHpON3J5ejJaNThTRFNrWXFWZWFmby02YnRGMnNNX055ODdaVFJoMWNsSjk5VnNnWjNtLWxMcmlZUXdad2EzQ01aSl9BOGNtVXh6NjVBS2xLYVI4bUtXYWgwRS1lbE9weVdDVXNveXVVckhxdmpHdlZfRmliMTNuajNLMUpfRmhLX0M1dllWdWdSQXkxWlctRFU1QUVacEoxb1c4SkZ3cDcyVVQ4TXNiWWpVb3kxcl92Q3U3UXc5X19fMGI2OExnR3pleXRGUHNPbWdVVmQ0aE1CemJLeEFJTnVCUWpnZXRfRGpsWU5MN3J2VWJySTExWW1aZFN2N1JRdm5mdEo0QmYxRmxvWTZYa1dxa08wbnJDbmRqb2J2WEtiODNkWkRPWVM5V0FZbkJZTUk2UzdFX195a3hjRnM2bXFWOVVDTWRZdHZ4bnRydzM1YzNQUXVBZjhQNGpIRjZsbGhtVGdUNkpudzNrbkFnRGR3enZfd3p0S2xMZ01QWGg0X0xaM2dkWVFhTGpucHhrbXpwSkllajhaNGlOUlRKckItNXRBWnlocFdpYzhzcjc0YUlsSHBIYXNzTUpUQWpZMkhYbWI3OThjbVYzak9ZaFVuTzZSU1RYZnRzc3J1SUFCN3RZV1ZDaG1nazBOcFdNdVhxSUZCX2ZOX2VSd3VsS29mUjd2b2h3eUtVU1FwOVlTQTk2aFM1VEh1YXVISyIsInVkaWQiOiJhYzY0MWY0Yi1kMDJlLTQwYjgtODdkNS02ZDAyYWMxNzFlMjJfd2ViX3NhYnJpYWRpYjIzMkBnbWFpbC5jb21fV0VCLWI5MjFkMmU4LTk2NTMtMjI0NC1lNTEzLTU1YzQwNTE4M2RmZCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=Ylgp1XZJQBJVd6uwP%2berCUyo7kI%3d&sessionId=9ce85ef0-6b83-1cdc-1970-99afc46dc1f8:56fc89a9-332a-db38-036f-8010d5015b60&clientTag=html5:v7.38.1&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1lbXBvbGktdnMtdmVuZXppYS8xMDk0NTA5L3BsYXllcj9saW5lYXJJZD0xMDAwNjgxOTgmaXNMaXZlPXRydWU=
 https://linear03-playback.sooka.my/CH1/masterCH1.mpd
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/5012.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsMAX" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BeIN Sports MAX HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1110,240 +1112,13 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37437
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37438
-
----TSN---
-#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
-http://iptv.tvmalaysia.cc:80/penang170/penang170/8923
-#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="" group-title="Sports",TSN 2
-http://iptv.tvmalaysia.cc:80/penang170/penang170/8924
-#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="" group-title="Sports",TSN 3
-http://iptv.tvmalaysia.cc:80/penang170/penang170/8925
----DSTV---
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Grandstand" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png" group-title="Sports",DSTV: SuperSport Grandstand
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6572
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport PSL" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png" group-title="Sports",DSTV: SuperSport PSL
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6573
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Premier League" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png" group-title="Sports",DSTV: SuperSport Premier League
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6574
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport La Liga" tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png" group-title="Sports",DSTV: SuperSport La Liga
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6575
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="Sports",DSTV: SuperSport Football
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6576
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="Sports",DSTV: SuperSport Variety 1
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6577
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 2" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="Sports",DSTV: SuperSport Variety 2
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6578
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 3" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="Sports",DSTV: SuperSport Variety 3
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6579
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="Sports",DSTV: SuperSport Variety 4
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6580
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Cricket" tvg-logo="http://tvmalaysia.cc:80/images/87f9188df2215a476290fa0e98b0e751.png" group-title="Sports",DSTV: SuperSport Cricket
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6583
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Blitz" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png" group-title="Sports",DSTV: Supersport Blitz
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6584
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport MáXimo" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png" group-title="Sports",DSTV: SuperSport MáXimo
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6585
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Rugby" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png" group-title="Sports",DSTV: SuperSport Rugby
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6582
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Action" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png" group-title="Sports",DSTV: SuperSport Action
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6581
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Motorsport" tvg-logo="http://tvmalaysia.cc:80/images/e1e9009280ca2bd4f72fdced323cebae.png" group-title="Sports",DSTV: SuperSport Motorsport
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7142
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Tennis" tvg-logo="https://i.postimg.cc/prhfQQbf/1613351683433.png" group-title="Sports",DSTV: SuperSport Tennis
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7143
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport WWE" tvg-logo="https://i.postimg.cc/x1RzzpNr/1613350615698.png" group-title="Sports",DSTV: SuperSport WWE
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7144
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Golf" tvg-logo="https://i.postimg.cc/2jM3LRHL/1613350336105.png" group-title="Sports",DSTV: SuperSport Golf
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7145
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
-https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosport 1
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosport 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26972.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosport 2
-http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosport 2
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26973.ts
----BT SPORT---
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="Sports",BT Sport 1
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6610
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="Sports",BT Sport 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="Sports",BT Sport 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26958.ts
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="Sports",BT Sport 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26959.ts
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="Sports",BT Sport 2
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6611
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="Sports",BT Sport 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="Sports",BT Sport 2
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26960.ts
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="Sports",BT Sport 2
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26961.ts
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="Sports",BT Sport 3
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6612
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="Sports",BT Sport 3
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26962.ts
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="Sports",BT Sport 3
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26963.ts
-#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26964.ts
-#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 2 (Live Match Only)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26965.ts
-#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 4
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26967.ts
-#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 5 (Live Match Only)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26968.ts
-#EXTINF:-1 group-title="Sports",UK: BT Sports Extra 6 (Live Match Only)
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26969.ts
----SPort TV---
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sports",Sport TV 5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
----Sky Sports---
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="Sports",UK: Sky Sports News
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6614
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena" tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="Sports",UK: Sky Sports Arena
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6615
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="Sports",UK: Sky Sports F1
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6617
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="Sports",UK: Sky Sports Golf
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6618
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="Sports",UK: Sky Sports Football
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6620
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="Sports",UK: Sky Sports Premier League
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6621
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="Sports",UK: Sky Sports Cricket
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6619
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg" group-title="Sports",UK: Sky Sports Racing
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7114
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg" group-title="Sports",UK: Sky Sports Main Event
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7115
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix" tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg" group-title="Sports",UK: Sky Sports Mix
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7116
-
-#EXTINF:-1 group-title="Sports",UK: FreeSports
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26974.ts
-#EXTINF:-1 group-title="Sports",UK: Premier Sports 1
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26975.ts
-#EXTINF:-1 group-title="Sports",UK: Premier Sports 2
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26976.ts
-#EXTINF:-1 group-title="Sports",UK: LFC TV
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26977.ts
-#EXTINF:-1 group-title="Sports",UK: MUTV HD
-http://pamporea.xyz:8080/live/florinbogdan1206@gmail.com/zhrv5f1JiV/26978.ts
+-------
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="Sports",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://siriusmalaysia.tv/wp-content/uploads/2021/03/fight-box.png",Fight Box
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/501
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nba.png",NBA TV
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/3099
-#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-nba.png",NBA
-http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
----BEIN---
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1
-http://hbox.cdnss.me:80/bestcs/bestcs/5014
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/553
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/3943
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/7936
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/7937
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/7952
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2
-http://hbox.cdnss.me:80/bestcs/bestcs/552
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2
-http://hbox.cdnss.me:80/bestcs/bestcs/3944
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2
-http://hbox.cdnss.me:80/bestcs/bestcs/5013
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 
-http://hbox.cdnss.me:80/bestcs/bestcs/7953
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/4366
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/7954
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3
-http://hbox.cdnss.me:80/bestcs/bestcs/554
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3
-http://hbox.cdnss.me:80/bestcs/bestcs/3945
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/7955
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 PREMIUM
-http://hbox.cdnss.me:80/bestcs/bestcs/7956
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 4
-http://hbox.cdnss.me:80/bestcs/bestcs/555
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 4
-http://hbox.cdnss.me:80/bestcs/bestcs/3946
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 4
-http://hbox.cdnss.me:80/bestcs/bestcs/5011
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5
-http://hbox.cdnss.me:80/bestcs/bestcs/556
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5
-http://hbox.cdnss.me:80/bestcs/bestcs/4194
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5
-http://hbox.cdnss.me:80/bestcs/bestcs/5010
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5 HD
-http://hbox.cdnss.me:80/bestcs/bestcs/4197
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 5 HD
-http://hbox.cdnss.me:80/bestcs/bestcs/5007
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 6
-http://hbox.cdnss.me:80/bestcs/bestcs/557
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 6
-http://hbox.cdnss.me:80/bestcs/bestcs/4195
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 6
-http://hbox.cdnss.me:80/bestcs/bestcs/5009
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 7
-http://hbox.cdnss.me:80/bestcs/bestcs/587
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 7
-http://hbox.cdnss.me:80/bestcs/bestcs/4196
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 7
-http://hbox.cdnss.me:80/bestcs/bestcs/5008
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1
-http://hbox.cdnss.me:80/bestcs/bestcs/588
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 1 
-http://hbox.cdnss.me:80/bestcs/bestcs/7959
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS XTRA 2 HD
-http://hbox.cdnss.me:80/bestcs/bestcs/7960
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
-http://hbox.cdnss.me:80/bestcs/bestcs/7957
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
-http://hbox.cdnss.me:80/bestcs/bestcs/7958
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS HD
-http://hbox.cdnss.me:80/bestcs/bestcs/7961
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/590
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/5004
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/7946
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 1 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/7947
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/4363
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/5003
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 2 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/7948
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/7950
-#EXTINF:-1 group-title="Beinsport",BEIN SPORTS 3 EN
-http://hbox.cdnss.me:80/bestcs/bestcs/7951
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-TerengganuFM.jpg",Terengganu FM
 https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/manifest.mpd
