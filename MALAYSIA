@@ -39,7 +39,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227507/3221227507.mpd
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 tvg-id="AwesomeTV" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/244
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/387
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",Pesona HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
