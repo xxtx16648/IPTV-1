@@ -232,7 +232,7 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/144
 
 #EXTINF:-1 tvg-id="AstroVellithirai" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Astro Vellithirai
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
+#http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 
 #EXTINF:-1 tvg-id="MakkalTV" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png",Makkal TV (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -240,7 +240,7 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400566.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SunTV" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",SUN TV HD
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37347
+#https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37347
 
 #EXTINF:-1 tvg-id="SunMusic" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music HD 
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6831
@@ -345,19 +345,25 @@ http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #https://web.hypp.tv:443/PLTV/88888888/224/3221227516/3221227516.mpd
 
-#EXTINF:-1 tvg-id="CTIAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",CTI Asia HD
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37358
+#EXTINF:-1 tvg-id="CTIAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",CTI Asia HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVBEntertainmentNews" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png",TVB Entertainment News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBXingHe" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He HD
-http://50.7.161.82:8277/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBXingHe" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBSAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",TVBS Asia HD
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37361
+#EXTINF:-1 tvg-id="TVBSAsia" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",TVBS Asia HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CCM" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -622,10 +628,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png",Bloomberg TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+#EXTINF:-1 tvg-id="BloombergTV" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png",Bloomberg TV HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -656,13 +662,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227595/3221227595.mpd
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227626/3221227626.mpd
 
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png",France24
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#EXTINF:-1 tvg-id="France24" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png",France24 (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227629/3221227629.mpd
 
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="data:image/png;base64,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",Fox News
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png", Fox News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
@@ -816,8 +822,6 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Layout/tile/2188880/b279b7348ae99dbb581abe69d3fa1c98/480x273-Q95_b279b7348ae99dbb581abe69d3fa1c98.jpg",Disney XD
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37400
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
