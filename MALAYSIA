@@ -908,6 +908,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227620/3221227620.mpd
 #https://web.hypp.tv:443/PLTV/88888888/224/3221227571/3221227571.mpd
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",Crime & Investigation HD (OTT)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",Crime & Investigation HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
