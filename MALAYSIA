@@ -107,7 +107,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 
 #EXTINF:-1 tvg-id="AstroRia" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6730
+#http://iptv.tvmalaysia.cc:80/penang170/penang170/6730
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,7 +118,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/21
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6727
+#http://iptv.tvmalaysia.cc:80/penang170/penang170/6727
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,18 +129,18 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/18
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6725
+#http://iptv.tvmalaysia.cc:80/penang170/penang170/6725
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21zxEArD5zrlFB2QWZnNHa5cWpb7-bTUHtnUjOzaGLblU=UlfN/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6740
+#http://iptv.tvmalaysia.cc:80/penang170/penang170/6740
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,7 +151,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/26
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7267
+#http://iptv.tvmalaysia.cc:80/penang170/penang170/7267
 
 #EXTINF:-1 tvg-id="Naura" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -213,7 +213,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5030/default_ott.mpd
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/19
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6715
+#http://iptv.tvmalaysia.cc:80/penang170/penang170/6715
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
