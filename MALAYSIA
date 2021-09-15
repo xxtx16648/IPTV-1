@@ -795,7 +795,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon HD (OTT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f71e44096f779a0619fe9881f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227539/3221227539.mpd
 
@@ -933,7 +933,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BBCLifestyle" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
+#EXTINF:-1 tvg-id="BBCLifestyle" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/451_144.png",BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/77
