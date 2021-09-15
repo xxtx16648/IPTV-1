@@ -24,8 +24,10 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbo6ZVzA9-djhto3-z
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVAlhijrah" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",Al-Hijrah
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/14
+#EXTINF:-1 tvg-id="TVAlhijrah" group-title="Free Channels" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",Al-Hijrah (OTT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Free Channels" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
