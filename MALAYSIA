@@ -142,11 +142,6 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna HD
 #http://iptv.tvmalaysia.cc:80/penang170/penang170/6740
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD (OTT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
-
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/26
 
